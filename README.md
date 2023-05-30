@@ -5,4 +5,4 @@
  本项目基于Springboot+Mybatis开发，数据库使用MySQL
  
  ## 使用说明
- 使用idea导入本项目，然后导入sql文件夹中的database.sql到MySQL数据库中即可
+ 使用idea导入本项目，然后导入sql文件夹中的lms.sql到MySQL数据库中即可
