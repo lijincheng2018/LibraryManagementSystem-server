@@ -1,0 +1,15 @@
+cn\ljcljc\controller\UserController.class
+cn\ljcljc\pojo\Book.class
+cn\ljcljc\utils\StringToMapUtils.class
+cn\ljcljc\mapper\UserMapper.class
+cn\ljcljc\pojo\User.class
+cn\ljcljc\config\WebConfig.class
+cn\ljcljc\controller\BookController.class
+cn\ljcljc\mapper\BookMapper.class
+cn\ljcljc\pojo\Bookclass.class
+cn\ljcljc\utils\JwtUtils.class
+cn\ljcljc\pojo\Result.class
+cn\ljcljc\pojo\Bookrent.class
+cn\ljcljc\mapper\BookClassMapper.class
+cn\ljcljc\SpringbootMybatisApplication.class
+cn\ljcljc\interceptor\LoginCheckInterceptor.class
